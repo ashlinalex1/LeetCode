@@ -36,4 +36,12 @@ Problems solved and their performance statistics are automatically updated throu
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ashlinalex1/LeetCode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/ashlinalex1/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0657-robot-return-to-origin](https://github.com/ashlinalex1/LeetCode/tree/main/0657-robot-return-to-origin/) | Easy |
 <!---LeetCode Topics End-->
